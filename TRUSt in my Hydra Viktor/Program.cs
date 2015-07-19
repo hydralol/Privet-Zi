@@ -697,7 +697,7 @@ namespace Viktor
         private static void SetupMenu()
         {
             
-            menu = new MenuWrapper("TRUSt in my " + CHAMP_NAME);
+            menu = new MenuWrapper("TRUSt in my Hydra " + CHAMP_NAME);
             // Combo
             var subMenu = menu.MainMenu.AddSubMenu("Combo");
             ProcessLink("comboUseQ", subMenu.AddLinkedBool("Use Q"));

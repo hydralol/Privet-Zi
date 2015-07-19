@@ -7,8 +7,8 @@
     <ProjectGuid>{86AE56BE-74A6-470B-B9BC-35791F59816B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TRUStInMyViktor</RootNamespace>
-    <AssemblyName>TRUStInMyViktor</AssemblyName>
+    <RootNamespace>TRUStInMyHydraViktor</RootNamespace>
+    <AssemblyName>TRUStInMyHydraViktor</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PreBuildEvent />
